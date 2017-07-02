@@ -1,0 +1,11 @@
+pyquery:
+
+from pyquery import PyQuery as pq
+doc = pq(html)
+print(doc('#container .list li'))
+
+    基本css选择器
+      解析方法：
+      1、id     前加 #
+      2、class  前加 .
+      3、标签    前不加
