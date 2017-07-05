@@ -1,0 +1,54 @@
+[INFO  - 2017-07-05T00:12:42.941Z] GhostDriver - Main - running on port 51062
+[INFO  - 2017-07-05T00:12:43.048Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-05T00:12:43.048Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.customHeaders:  - {}
+[INFO  - 2017-07-05T00:12:43.048Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-05T00:12:43.048Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aa2c6360-6116-11e7-94dd-f3c2b8271464
+[ERROR - 2017-07-05T00:12:47.442Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.442Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.443Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/plugin/history is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.443Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.444Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/plugin/cloud is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.444Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.444Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/plugin/tab is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.444Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.444Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/plugin/history-magic is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.445Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.445Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/plugin/imgsearch is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.445Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.445Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - msg: kg/search-suggest/6.2.11/theme/pailitao/index is not loaded! can not find module in path : https://g.alicdn.com/kg/??search-suggest/6.2.11/index-min.js,search-suggest/6.2.11/plugin/history-min.js,search-suggest/6.2.11/plugin/cloud-min.js,search-suggest/6.2.11/plugin/tab-min.js,search-suggest/6.2.11/plugin/history-magic-min.js,search-suggest/6.2.11/plugin/imgsearch-min.js,search-suggest/6.2.11/theme/pailitao/index-min.js
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-05T00:12:47.445Z] Session [aa2c6360-6116-11e7-94dd-f3c2b8271464] - page.onError - stack:
+  (anonymous function) (https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.3.7/index-min.js,secdev/sufei_data/3.0.8/index.js:5)
+
+  phantomjs://platform/console++.js:263 in error
