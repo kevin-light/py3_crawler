@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1792401-c470-4cba-a2ac-5bb0bdc55164" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/P1/proxypool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/Proxy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/ProxyFilter" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/ProxyPool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/p2/proxypool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyLog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/.idea/ProxyPool.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProxyPool/proxy_pool/.idea/proxy_pool.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlNote/ProxyPool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProxyPool/.idea/ProxyPool.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProxyPool/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProxyPool/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProxyPool/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProxyPool/proxy_pool/.idea/proxy_pool.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -302,6 +294,14 @@
       <option name="presentableId" value="Default" />
       <updated>1499005239169</updated>
     </task>
+    <task id="LOCAL-00001" summary="proxy">
+      <created>1499272609021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499272609021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -333,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="proxy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
