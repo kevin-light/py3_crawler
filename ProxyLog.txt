@@ -7,3 +7,5 @@ https://github.com/stanleyya/proxypool
 https://github.com/arrti/proxypool
 
 https://github.com/germey/proxypool
+
+http://blog.csdn.net/sharp_zjf/article/details/52791419
